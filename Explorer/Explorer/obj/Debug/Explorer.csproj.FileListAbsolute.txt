@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2017\Projects\Explorer\Explorer\bin\Debug\Explorer.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Explorer\Explorer\bin\Debug\Explorer.exe
+c:\users\hp\documents\visual studio 2017\Projects\Explorer\Explorer\bin\Debug\Explorer.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Explorer\Explorer\obj\Debug\Explorer.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\Explorer\Explorer\obj\Debug\Explorer.ExplorerForm.resources
+c:\users\hp\documents\visual studio 2017\Projects\Explorer\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\Explorer\Explorer\obj\Debug\Explorer.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\Explorer\Explorer\obj\Debug\Explorer.exe
+c:\users\hp\documents\visual studio 2017\Projects\Explorer\Explorer\obj\Debug\Explorer.pdb
