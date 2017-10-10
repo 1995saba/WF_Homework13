@@ -22,7 +22,7 @@ namespace Explorer
 
         private void ShowTreeNode()
         {
-            DirectoryInfo info = new DirectoryInfo(@"C:\Users\HP\Documents\Visual Studio 2017");
+            DirectoryInfo info = new DirectoryInfo(@"C:\Program Files");
             TreeNode node = new TreeNode(info.Name);
             node.Tag = info;
             GetDirectories(info.GetDirectories(), node);
